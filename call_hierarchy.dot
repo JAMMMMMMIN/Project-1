@@ -1,0 +1,31 @@
+digraph G {
+    nvme_io_cmd -> nvme_flush;
+    nvme_io_cmd -> nvme_dsm;
+    nvme_io_cmd -> nvme_compare;
+    nvme_io_cmd -> nvme_write_zeros;
+    nvme_io_cmd -> nvme_write_uncor;
+    nvme_io_cmd -> "n->ext_ops.io_cmd";
+
+    nvme_process_sq_io -> nvme_update_sq_tail;
+    nvme_process_sq_io -> nvme_copy_cmd;
+    nvme_process_sq_io -> nvme_inc_sq_head;
+    nvme_process_sq_io -> nvme_io_cmd;
+    nvme_process_sq_io -> QTAILQ_REMOVE;
+
+    nvme_process_cq_cpl -> femu_ring_dequeue;
+    nvme_process_cq_cpl -> pqueue_insert;
+    nvme_process_cq_cpl -> pqueue_peek;
+    nvme_process_cq_cpl -> qemu_clock_get_ns;
+    nvme_process_cq_cpl -> nvme_post_cqe;
+    nvme_process_cq_cpl -> pqueue_pop;
+
+    nvme_post_cqe -> nvme_inc_cq_tail;
+    nvme_post_cqe -> nvme_addr_write;
+
+    nvme_rw -> nvme_write_uncor;
+    nvme_rw -> nvme_write_zeros;
+    nvme_rw -> nvme_compare;
+
+    nvme_poller -> nvme_process_sq_io;
+    nvme_poller -> nvme_process_cq_cpl;
+}

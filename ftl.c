@@ -9,6 +9,7 @@ static inline bool should_gc(struct ssd *ssd)
     return (ssd->lm.free_line_cnt <= ssd->sp.gc_thres_lines);
 }
 
+
 static inline bool should_gc_high(struct ssd *ssd)
 {
     return (ssd->lm.free_line_cnt <= ssd->sp.gc_thres_lines_high);
@@ -63,12 +64,12 @@ static inline int victim_line_cmp_pri(pqueue_pri_t next, pqueue_pri_t curr)
 
 static inline pqueue_pri_t victim_line_get_pri(void *a)
 {
-    return ((struct line *)a)->vpc;
+    return ((struct line *)a)->vpc; //우선순위로 vpc를 반환. 유효 페이지 갯수가 적을 수록 우선 순위
 }
 
 static inline void victim_line_set_pri(void *a, pqueue_pri_t pri)
 {
-    ((struct line *)a)->vpc = pri;
+    ((struct line *)a)->vpc = pri; //그냥 우선 순위를 vpc에 대입. 동일시
 }
 
 static inline size_t victim_line_get_pos(void *a)
