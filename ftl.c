@@ -913,7 +913,9 @@ static void *ftl_thread(void *arg)
     ssd->to_poller = n->to_poller;
 
     uint64_t start_time = 0;
+    uint64_t init_time = 0;
     uint64_t proceed = 0;
+    uint64_t throughput = 0;
     while (1)
     {
         for (i = 1; i <= n->nr_pollers; i++)
@@ -945,17 +947,22 @@ static void *ftl_thread(void *arg)
             }
 
             uint64_t current_time = qemu_clock_get_ns(QEMU_CLOCK_REALTIME);
+            init_time = current_time;
             uint64_t elapsed_ns = current_time - start_time;
 
             proceed++;
 
+            throughput += ssd->sp->secsz * req->nlb;
+
             if (elapsed_ns >= 1e9)
             { // 1초마다 IOPS 출력
                 uint64_t iops = proceed;
-                printf("TIME: %lu, IOPS: %lu\n\r", current_time, iops);
+                printf("TIME(ms): %lu, IOPS:       %lu\n\r", (current_time - init_time) / 1e6, iops);
+                printf("TIME(ms): %lu, throughput: %lu\n\r", (current_time - init_time) / 1e6, throughput);
 
                 // 초기화
                 proceed = 0;
+                throughput = 0;
                 start_time = current_time;
             }
 
