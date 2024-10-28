@@ -157,8 +157,6 @@ static void nvme_process_cq_cpl(void *arg, int index_poller)
         start_time = qemu_clock_get_ns(QEMU_CLOCK_REALTIME);
     }
 
-    int processed = 0;
-
     if (BBSSD(n) || ZNSSD(n))
     {
         rp = n->to_poller[index_poller];
