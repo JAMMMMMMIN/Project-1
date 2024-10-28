@@ -137,9 +137,6 @@ static void nvme_post_cqe(NvmeCQueue *cq, NvmeRequest *req)
     nvme_inc_cq_tail(cq);
 }
 
-static uint64_t total_completed = 0;
-static uint64_t start_time = 0;
-
 static void nvme_process_cq_cpl(void *arg, int index_poller)
 {
     FemuCtrl *n = (FemuCtrl *)arg;
@@ -151,11 +148,6 @@ static void nvme_process_cq_cpl(void *arg, int index_poller)
     int processed = 0;
     int rc;
     int i;
-
-    if (start_time == 0)
-    {
-        start_time = qemu_clock_get_ns(QEMU_CLOCK_REALTIME);
-    }
 
     if (BBSSD(n) || ZNSSD(n))
     {
@@ -222,22 +214,6 @@ static void nvme_process_cq_cpl(void *arg, int index_poller)
             }
         }
         break;
-    }
-
-    processed++;
-    total_completed += processed;
-
-    uint64_t current_time = qemu_clock_get_ns(QEMU_CLOCK_REALTIME);
-    uint64_t elapsed_ns = current_time - start_time;
-
-    if (elapsed_ns >= 1e9)
-    { // 1초마다 IOPS 출력
-        uint64_t iops = total_completed;
-        printf("Completed IOPS: %lu\n", iops);
-
-        // 초기화
-        total_completed = 0;
-        start_time = current_time;
     }
 }
 
