@@ -1,308 +1,309 @@
-Time:       1354 readIO:         52 writeIO:          0
-Time:       2514 readIO:         48 writeIO:          0
-Time:      56485 readIO:         49 writeIO:          0
-Time:      58091 readIO:        159 writeIO:         63
-Time:      63371 readIO:          0 writeIO:         36
-Time:      74155 readIO:          1 writeIO:          2
-Time:      75331 readIO:          0 writeIO:        255
-Time:      76449 readIO:          0 writeIO:        256
-Time:      77449 readIO:      38615 writeIO:          1
-Time:      78449 readIO:      44077 writeIO:          0
-Time:      79449 readIO:      44839 writeIO:          0
-Time:      80449 readIO:      43936 writeIO:          0
-Time:      81449 readIO:      43795 writeIO:          0
-Time:      82449 readIO:      44206 writeIO:          2
-Time:      83449 readIO:      44494 writeIO:          0
-Time:      84449 readIO:      43562 writeIO:          0
-Time:      85449 readIO:      44364 writeIO:          0
-Time:      86449 readIO:      44984 writeIO:          0
-Time:      87449 readIO:      44140 writeIO:          5
-Time:      88449 readIO:      44650 writeIO:          0
-Time:      89449 readIO:      44177 writeIO:          0
-Time:      90449 readIO:      43985 writeIO:          0
-Time:      91449 readIO:      45083 writeIO:          0
-Time:      92449 readIO:      45008 writeIO:          0
-Time:      93449 readIO:      43428 writeIO:          0
-Time:      94449 readIO:      43998 writeIO:          0
-Time:      95449 readIO:      44115 writeIO:          0
-Time:      96449 readIO:      43589 writeIO:          0
-Time:      97449 readIO:      44351 writeIO:          0
-Time:      98449 readIO:      44389 writeIO:          0
-Time:      99449 readIO:      43850 writeIO:          0
-Time:     100449 readIO:      44283 writeIO:          0
-Time:     101449 readIO:      44905 writeIO:          0
-Time:     102449 readIO:      44589 writeIO:          0
-Time:     103449 readIO:      44352 writeIO:          0
-Time:     104449 readIO:      44531 writeIO:          0
-Time:     105449 readIO:      43624 writeIO:          0
-Time:     106449 readIO:      44101 writeIO:          0
-Time:     107449 readIO:      44341 writeIO:          0
-Time:     108449 readIO:      44154 writeIO:          0
-Time:     109449 readIO:      44782 writeIO:          0
-Time:     110449 readIO:      44330 writeIO:          0
-Time:     111449 readIO:      44600 writeIO:          0
-Time:     112449 readIO:      44355 writeIO:          0
-Time:     113449 readIO:      44749 writeIO:          0
-Time:     114449 readIO:      44295 writeIO:          0
-Time:     115449 readIO:      44477 writeIO:          0
-Time:     116449 readIO:      44468 writeIO:          0
-Time:     117449 readIO:      44252 writeIO:          0
-Time:     118449 readIO:      44186 writeIO:          0
-Time:     119449 readIO:      43947 writeIO:          0
-Time:     120449 readIO:      43861 writeIO:          0
-Time:     121449 readIO:      44684 writeIO:          0
-Time:     122449 readIO:      45330 writeIO:          0
-Time:     123449 readIO:      44263 writeIO:          0
-Time:     124449 readIO:      45636 writeIO:          0
-Time:     125449 readIO:      44985 writeIO:          0
-Time:     126449 readIO:      44286 writeIO:          0
-Time:     127449 readIO:      45239 writeIO:          0
-Time:     128449 readIO:      45614 writeIO:          0
-Time:     129449 readIO:      45520 writeIO:          0
-Time:     130449 readIO:      44798 writeIO:          0
-Time:     131449 readIO:      45308 writeIO:          0
-Time:     132449 readIO:      45113 writeIO:          0
-Time:     133449 readIO:      45226 writeIO:          0
-Time:     134449 readIO:      45272 writeIO:          0
-Time:     135449 readIO:      44978 writeIO:          0
-Time:     136449 readIO:      44769 writeIO:          0
-Time:     137449 readIO:      45804 writeIO:          0
-Time:     138449 readIO:      45320 writeIO:          0
-Time:     139449 readIO:      45901 writeIO:          0
-Time:     140449 readIO:      44808 writeIO:          0
-Time:     141449 readIO:      44700 writeIO:          0
-Time:     142449 readIO:      45220 writeIO:          0
-Time:     143449 readIO:      45710 writeIO:          0
-Time:     144449 readIO:      44892 writeIO:          0
-Time:     145449 readIO:      45278 writeIO:          0
-Time:     146449 readIO:      45103 writeIO:          0
-Time:     147449 readIO:      44623 writeIO:          0
-Time:     148450 readIO:      45507 writeIO:          0
-Time:     149450 readIO:      44407 writeIO:          0
-Time:     150450 readIO:      44133 writeIO:          0
-Time:     151450 readIO:      45504 writeIO:          0
-Time:     152450 readIO:      45557 writeIO:          0
-Time:     153450 readIO:      45532 writeIO:          0
-Time:     154450 readIO:      44923 writeIO:          0
-Time:     155450 readIO:      45006 writeIO:          0
-Time:     156450 readIO:      45124 writeIO:          0
-Time:     157450 readIO:      45013 writeIO:          0
-Time:     158450 readIO:      45061 writeIO:          0
-Time:     159450 readIO:      45627 writeIO:          0
-Time:     160450 readIO:      44465 writeIO:          0
-Time:     161450 readIO:      45584 writeIO:          0
-Time:     162450 readIO:      45486 writeIO:          0
-Time:     163450 readIO:      45415 writeIO:          0
-Time:     164450 readIO:      44978 writeIO:          0
-Time:     165450 readIO:      44907 writeIO:          0
-Time:     166450 readIO:      45851 writeIO:          0
-Time:     167450 readIO:      45070 writeIO:          0
-Time:     168450 readIO:      45856 writeIO:          0
-Time:     169450 readIO:      45666 writeIO:          0
-Time:     170450 readIO:      45176 writeIO:          0
-Time:     171450 readIO:      45286 writeIO:          0
-Time:     172450 readIO:      45333 writeIO:          0
-Time:     173450 readIO:      45887 writeIO:          0
-Time:     174450 readIO:      44892 writeIO:          0
-Time:     175450 readIO:      45201 writeIO:          0
-Time:     176450 readIO:      44920 writeIO:          0
-Time:     177450 readIO:      45816 writeIO:          0
-Time:     178450 readIO:      45380 writeIO:          0
-Time:     179450 readIO:      45228 writeIO:          0
-Time:     180450 readIO:      44702 writeIO:          0
-Time:     181450 readIO:      45850 writeIO:          0
-Time:     182450 readIO:      45878 writeIO:          0
-Time:     183450 readIO:      45048 writeIO:          0
-Time:     184450 readIO:      45566 writeIO:          0
-Time:     185450 readIO:      45266 writeIO:          0
-Time:     186450 readIO:      45630 writeIO:          0
-Time:     187450 readIO:      46074 writeIO:          0
-Time:     188450 readIO:      45469 writeIO:          0
-Time:     189450 readIO:      45006 writeIO:          0
-Time:     190450 readIO:      46101 writeIO:          0
-Time:     191450 readIO:      45210 writeIO:          0
-Time:     192450 readIO:      45544 writeIO:          0
-Time:     193450 readIO:      45335 writeIO:          0
-Time:     194450 readIO:      45784 writeIO:          0
-Time:     195450 readIO:      45311 writeIO:          0
-Time:     196450 readIO:      45019 writeIO:          0
-Time:     197450 readIO:      45522 writeIO:          0
-Time:     198450 readIO:      46023 writeIO:          0
-Time:     199450 readIO:      45446 writeIO:          0
-Time:     200450 readIO:      45394 writeIO:          0
-Time:     201450 readIO:      45500 writeIO:          0
-Time:     202450 readIO:      45236 writeIO:          0
-Time:     203450 readIO:      45902 writeIO:          0
-Time:     204450 readIO:      45932 writeIO:          0
-Time:     205450 readIO:      45116 writeIO:          0
-Time:     206450 readIO:      45407 writeIO:          0
-Time:     207450 readIO:      45825 writeIO:          0
-Time:     208450 readIO:      45264 writeIO:          0
-Time:     209450 readIO:      44857 writeIO:          0
-Time:     210450 readIO:      45360 writeIO:          0
-Time:     211451 readIO:      44959 writeIO:          0
-Time:     212451 readIO:      45406 writeIO:          0
-Time:     213451 readIO:      45725 writeIO:          0
-Time:     214451 readIO:      45757 writeIO:          0
-Time:     215451 readIO:      45184 writeIO:          0
-Time:     216451 readIO:      44650 writeIO:          0
-Time:     217451 readIO:      44508 writeIO:          0
-Time:     218451 readIO:      45792 writeIO:          0
-Time:     219451 readIO:      45752 writeIO:          0
-Time:     220451 readIO:      45099 writeIO:          0
-Time:     221451 readIO:      44977 writeIO:          0
-Time:     222451 readIO:      45243 writeIO:          0
-Time:     223451 readIO:      45243 writeIO:          0
-Time:     224451 readIO:      44935 writeIO:          0
-Time:     225451 readIO:      45067 writeIO:          0
-Time:     226451 readIO:      45943 writeIO:          0
-Time:     227451 readIO:      45143 writeIO:          0
-Time:     228451 readIO:      45544 writeIO:          0
-Time:     229451 readIO:      45211 writeIO:          0
-Time:     230451 readIO:      46250 writeIO:          0
-Time:     231451 readIO:      45559 writeIO:          0
-Time:     232451 readIO:      45302 writeIO:          0
-Time:     233451 readIO:      45707 writeIO:          0
-Time:     234451 readIO:      45628 writeIO:          0
-Time:     235451 readIO:      45127 writeIO:          0
-Time:     236451 readIO:      45886 writeIO:          0
-Time:     237451 readIO:      45602 writeIO:          0
-Time:     238451 readIO:      45733 writeIO:          0
-Time:     239451 readIO:      45473 writeIO:          0
-Time:     240451 readIO:      44269 writeIO:          0
-Time:     241451 readIO:      45680 writeIO:          0
-Time:     242451 readIO:      45271 writeIO:          0
-Time:     243451 readIO:      46201 writeIO:          0
-Time:     244451 readIO:      45991 writeIO:          0
-Time:     245451 readIO:      45434 writeIO:          0
-Time:     246451 readIO:      45369 writeIO:          0
-Time:     247451 readIO:      45372 writeIO:          0
-Time:     248451 readIO:      45478 writeIO:          0
-Time:     249451 readIO:      45318 writeIO:          0
-Time:     250451 readIO:      45709 writeIO:          0
-Time:     251451 readIO:      45441 writeIO:          0
-Time:     252451 readIO:      45587 writeIO:          0
-Time:     253451 readIO:      45159 writeIO:          0
-Time:     254451 readIO:      46292 writeIO:          0
-Time:     255451 readIO:      44959 writeIO:          0
-Time:     256451 readIO:      45221 writeIO:          0
-Time:     257451 readIO:      45232 writeIO:          0
-Time:     258451 readIO:      44741 writeIO:          0
-Time:     259451 readIO:      45301 writeIO:          0
-Time:     260451 readIO:      44947 writeIO:          0
-Time:     261451 readIO:      46004 writeIO:          0
-Time:     262451 readIO:      45705 writeIO:          0
-Time:     263451 readIO:      45987 writeIO:          0
-Time:     264451 readIO:      45118 writeIO:          0
-Time:     265451 readIO:      45186 writeIO:          0
-Time:     266451 readIO:      45583 writeIO:          0
-Time:     267451 readIO:      44491 writeIO:          0
-Time:     268451 readIO:      45250 writeIO:          0
-Time:     269451 readIO:      44289 writeIO:          0
-Time:     270451 readIO:      45671 writeIO:          0
-Time:     271451 readIO:      45500 writeIO:          0
-Time:     272451 readIO:      45284 writeIO:          0
-Time:     273451 readIO:      45856 writeIO:          0
-Time:     274452 readIO:      45379 writeIO:          0
-Time:     275452 readIO:      44850 writeIO:          0
-Time:     276452 readIO:      44939 writeIO:          0
-Time:     277452 readIO:      45519 writeIO:          0
-Time:     278452 readIO:      45566 writeIO:          0
-Time:     279452 readIO:      45772 writeIO:          0
-Time:     280452 readIO:      44844 writeIO:          0
-Time:     281452 readIO:      45140 writeIO:          0
-Time:     282452 readIO:      45506 writeIO:          0
-Time:     283452 readIO:      45240 writeIO:          0
-Time:     284452 readIO:      44988 writeIO:          0
-Time:     285452 readIO:      45414 writeIO:          0
-Time:     286452 readIO:      45258 writeIO:          0
-Time:     287452 readIO:      45382 writeIO:          0
-Time:     288452 readIO:      45673 writeIO:          0
-Time:     289452 readIO:      45232 writeIO:          0
-Time:     290452 readIO:      45229 writeIO:          0
-Time:     291452 readIO:      46069 writeIO:          0
-Time:     292452 readIO:      45214 writeIO:          0
-Time:     293452 readIO:      44789 writeIO:          0
-Time:     294452 readIO:      45299 writeIO:          0
-Time:     295452 readIO:      44661 writeIO:          0
-Time:     296452 readIO:      45657 writeIO:          0
-Time:     297452 readIO:      45696 writeIO:          0
-Time:     298452 readIO:      45416 writeIO:          0
-Time:     299452 readIO:      44873 writeIO:          0
-Time:     300452 readIO:      44965 writeIO:          0
-Time:     301452 readIO:      45235 writeIO:          0
-Time:     302452 readIO:      45965 writeIO:          0
-Time:     303452 readIO:      45467 writeIO:          0
-Time:     304452 readIO:      44665 writeIO:          0
-Time:     305452 readIO:      45064 writeIO:          0
-Time:     306452 readIO:      45224 writeIO:          0
-Time:     307452 readIO:      45630 writeIO:          0
-Time:     308452 readIO:      45505 writeIO:          0
-Time:     309452 readIO:      45349 writeIO:          0
-Time:     310452 readIO:      44939 writeIO:          0
-Time:     311452 readIO:      45498 writeIO:          0
-Time:     312452 readIO:      45699 writeIO:          0
-Time:     313452 readIO:      45117 writeIO:          0
-Time:     314452 readIO:      45210 writeIO:          0
-Time:     315452 readIO:      45068 writeIO:          0
-Time:     316452 readIO:      44892 writeIO:          0
-Time:     317452 readIO:      45680 writeIO:          0
-Time:     318452 readIO:      45548 writeIO:          0
-Time:     319452 readIO:      45476 writeIO:          0
-Time:     320452 readIO:      45423 writeIO:          0
-Time:     321452 readIO:      44938 writeIO:          0
-Time:     322452 readIO:      45870 writeIO:          0
-Time:     323452 readIO:      45304 writeIO:          0
-Time:     324452 readIO:      44629 writeIO:          0
-Time:     325452 readIO:      44926 writeIO:          0
-Time:     326452 readIO:      45187 writeIO:          0
-Time:     327452 readIO:      45739 writeIO:          0
-Time:     328452 readIO:      44907 writeIO:          0
-Time:     329452 readIO:      44851 writeIO:          0
-Time:     330452 readIO:      45265 writeIO:          0
-Time:     331452 readIO:      45310 writeIO:          0
-Time:     332452 readIO:      45420 writeIO:          0
-Time:     333452 readIO:      44923 writeIO:          0
-Time:     334452 readIO:      44952 writeIO:          0
-Time:     335452 readIO:      45796 writeIO:          0
-Time:     336452 readIO:      46100 writeIO:          0
-Time:     337452 readIO:      45638 writeIO:          0
-Time:     338452 readIO:      46067 writeIO:          0
-Time:     339452 readIO:      45165 writeIO:          0
-Time:     340452 readIO:      45365 writeIO:          0
-Time:     341452 readIO:      45012 writeIO:          0
-Time:     342453 readIO:      45786 writeIO:          0
-Time:     343453 readIO:      45644 writeIO:          0
-Time:     344453 readIO:      45678 writeIO:          0
-Time:     345453 readIO:      45527 writeIO:          0
-Time:     346453 readIO:      45103 writeIO:          0
-Time:     347453 readIO:      44688 writeIO:          0
-Time:     348453 readIO:      45486 writeIO:          0
-Time:     349453 readIO:      45606 writeIO:          0
-Time:     350453 readIO:      44990 writeIO:          0
-Time:     351453 readIO:      45755 writeIO:          0
-Time:     352453 readIO:      46007 writeIO:          0
-Time:     353453 readIO:      45559 writeIO:          0
-Time:     354453 readIO:      45900 writeIO:          0
-Time:     355453 readIO:      46209 writeIO:          0
-Time:     356453 readIO:      45541 writeIO:          0
-Time:     357453 readIO:      45148 writeIO:          0
-Time:     358453 readIO:      45272 writeIO:          0
-Time:     359453 readIO:      44204 writeIO:          0
-Time:     360453 readIO:      45391 writeIO:          0
-Time:     361453 readIO:      45163 writeIO:          0
-Time:     362453 readIO:      45711 writeIO:          0
-Time:     363453 readIO:      45461 writeIO:          0
-Time:     364453 readIO:      45577 writeIO:          0
-Time:     365453 readIO:      45304 writeIO:          0
-Time:     366453 readIO:      44795 writeIO:          0
-Time:     367453 readIO:      45699 writeIO:          0
-Time:     368453 readIO:      45303 writeIO:          0
-Time:     369453 readIO:      44739 writeIO:          0
-Time:     370453 readIO:      45341 writeIO:          0
-Time:     371453 readIO:      45783 writeIO:          0
-Time:     372453 readIO:      45701 writeIO:          0
-Time:     373453 readIO:      45188 writeIO:          0
-Time:     374453 readIO:      44688 writeIO:          0
-Time:     375453 readIO:      45879 writeIO:          0
-Time:     376453 readIO:      45736 writeIO:          0
+Time Read Write
+      1404         52          0
+      2447         48          0
+     51029         49          0
+     53619        159         63
+     59251          0         36
+     62422          1          2
+     63814          0        255
+     64917          0        256
+     65917      41794          1
+     66917      46710          0
+     67917      45439          0
+     68917      45356          0
+     69917      45555          0
+     70917      45678          2
+     71917      45186          0
+     72917      46147          0
+     73917      45512          0
+     74917      46106          0
+     75917      45261          0
+     76917      45801          0
+     77917      45641          0
+     78917      45831          0
+     79917      45824          0
+     80917      46166          0
+     81917      46777          5
+     82917      46023          0
+     83917      45155          0
+     84917      45532          0
+     85917      45887          0
+     86917      46063          0
+     87917      45476          0
+     88917      45657          0
+     89917      46027          0
+     90917      46385          0
+     91917      45645          0
+     92917      46174          0
+     93917      45723          0
+     94917      45916          0
+     95917      45826          0
+     96918      46356          0
+     97918      45840          0
+     98918      46012          0
+     99918      45204          0
+    100918      45788          0
+    101918      46080          0
+    102918      46088          0
+    103918      46122          0
+    104918      45955          0
+    105918      46332          0
+    106918      46642          0
+    107918      45891          0
+    108918      46288          0
+    109918      45427          0
+    110918      46528          0
+    111918      45467          0
+    112918      45927          0
+    113918      46077          0
+    114918      46787          0
+    115918      46451          0
+    116918      46341          0
+    117918      46013          0
+    118918      46436          0
+    119918      45642          0
+    120918      46574          0
+    121918      46392          0
+    122918      46184          0
+    123918      45557          0
+    124918      46278          0
+    125918      46602          0
+    126918      46191          0
+    127918      46534          0
+    128918      45822          0
+    129918      45529          0
+    130918      46367          0
+    131918      45368          0
+    132918      45792          0
+    133918      45768          0
+    134918      46581          0
+    135918      46275          0
+    136918      45816          0
+    137918      45881          0
+    138918      46234          0
+    139918      45880          0
+    140918      46345          0
+    141918      45923          0
+    142918      45880          0
+    143918      46396          0
+    144918      46019          0
+    145918      46236          0
+    146918      45881          0
+    147918      45877          0
+    148918      45823          0
+    149918      45201          0
+    150918      45787          0
+    151918      46017          0
+    152918      46180          0
+    153918      45934          0
+    154918      46495          0
+    155918      45884          0
+    156918      46263          0
+    157918      45014          0
+    158918      45673          0
+    159918      46045          0
+    160918      46570          0
+    161918      45404          0
+    162918      45675          0
+    163918      45755          0
+    164918      45819          0
+    165919      45820          0
+    166919      45847          0
+    167919      45913          0
+    168919      46775          0
+    169919      46437          0
+    170919      46134          0
+    171919      45707          0
+    172919      45655          0
+    173919      45823          0
+    174919      47036          0
+    175919      45076          0
+    176919      46410          0
+    177919      46404          0
+    178919      46071          0
+    179919      45637          0
+    180919      45895          0
+    181919      45346          0
+    182919      45379          0
+    183919      45525          0
+    184919      45730          0
+    185919      46171          0
+    186919      43134          0
+    187919      43697          0
+    188919      45799          0
+    189919      45422          0
+    190919      46000          0
+    191919      46675          0
+    192919      45994          0
+    193919      45698          0
+    194919      45681          0
+    195919      45091          0
+    196919      46134          0
+    197919      45838          0
+    198919      46212          0
+    199919      46391          0
+    200919      46097          0
+    201919      45831          0
+    202919      46318          0
+    203919      45739          0
+    204919      45385          0
+    205919      46059          0
+    206919      46252          0
+    207919      45786          0
+    208919      46135          0
+    209919      46779          0
+    210919      46351          0
+    211919      45982          0
+    212919      45745          0
+    213919      45345          0
+    214919      46330          0
+    215919      45303          0
+    216919      45719          0
+    217919      45575          0
+    218919      45684          0
+    219919      45369          0
+    220919      46340          0
+    221919      46135          0
+    222919      46501          0
+    223919      45270          0
+    224919      45705          0
+    225919      46087          0
+    226919      46644          0
+    227919      45334          0
+    228919      45327          0
+    229919      45714          0
+    230919      46088          0
+    231919      46749          0
+    232919      46051          0
+    233919      45816          0
+    234919      45945          0
+    235919      45240          0
+    236919      45995          0
+    237919      45555          0
+    238919      46264          0
+    239919      45767          0
+    240919      45641          0
+    241919      45745          0
+    242920      46331          0
+    243920      45591          0
+    244920      46698          0
+    245920      46454          0
+    246920      46998          0
+    247920      46250          0
+    248920      46518          0
+    249920      46078          0
+    250920      47072          0
+    251920      46630          0
+    252920      45675          0
+    253920      45799          0
+    254920      46509          0
+    255920      45704          0
+    256920      46338          0
+    257920      46550          0
+    258920      46883          0
+    259920      46333          0
+    260920      46699          0
+    261920      46873          0
+    262920      45938          0
+    263920      44905          0
+    264920      45639          0
+    265920      46452          0
+    266920      45462          0
+    267920      45292          0
+    268920      45724          0
+    269920      45731          0
+    270920      45906          0
+    271920      45520          0
+    272920      45488          0
+    273920      45710          0
+    274920      46274          0
+    275920      45481          0
+    276920      45969          0
+    277920      45688          0
+    278920      45905          0
+    279920      45543          0
+    280920      45851          0
+    281920      45056          0
+    282920      45601          0
+    283920      45625          0
+    284920      45759          0
+    285920      45645          0
+    286920      45770          0
+    287920      45205          0
+    288920      45155          0
+    289920      45430          0
+    290920      45832          0
+    291920      46301          0
+    292920      45708          0
+    293920      45658          0
+    294920      45987          0
+    295920      45033          0
+    296920      45388          0
+    297921      46126          0
+    298921      45950          0
+    299921      45488          0
+    300921      46795          0
+    301921      45914          0
+    302921      46289          0
+    303921      46202          0
+    304921      45246          0
+    305921      45834          0
+    306921      45857          0
+    307921      45890          0
+    308921      45948          0
+    309921      45912          0
+    310921      46660          0
+    311921      46133          0
+    312921      45728          0
+    313921      45905          0
+    314921      46499          0
+    315921      45722          0
+    316921      45475          0
+    317921      45116          0
+    318921      45748          0
+    319921      45241          0
+    320921      45605          0
+    321921      45239          0
+    322921      46131          0
+    323921      45949          0
+    324921      46151          0
+    325921      45622          0
+    326921      45692          0
+    327921      45963          0
+    328921      46300          0
+    329921      45516          0
+    330921      47086          0
+    331921      45940          0
+    332921      45325          0
+    333921      45439          0
+    334921      45805          0
+    335921      45895          0
+    336921      45633          0
+    337921      45783          0
+    338921      45817          0
+    339921      45640          0
+    340921      46043          0
+    341921      45496          0
+    342921      46094          0
+    343921      45409          0
+    344921      44986          0
+    345921      45640          0
+    346921      46002          0
+    347921      45811          0
+    348921      45484          0
+    349921      45406          0
+    350921      47029          0
+    351921      45631          0
+    352921      44989          0
+    353921      45232          0
+    354921      45373          0
+    355921      45308          0
+    356921      45449          0
+    357921      45397          0
+    358921      45607          0
+    359922      45642          0
+    360922      45771          0
+    361922      44906          0
+    362922      46407          0
+    363922      46642          0
+    364922      45862          0
